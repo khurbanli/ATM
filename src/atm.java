@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class atm {
-    private static double mebleg = 1000; // Başlangıç bakiyesi
+    private static double mebleg = 1000;
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
